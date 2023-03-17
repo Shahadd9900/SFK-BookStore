@@ -3,13 +3,22 @@ A library system written in Java language.
 
 SFK BOOKSTORE
 
+
+
 1-General interface
+
 *SFK Bookstore welcomes You*
+
 *Who is Using Our System Today?*
+
    *1- Admin*
+   
    *2- Customer*
+   
    *3- Distributing Agent*
+   
    *4- Exit the System*
+   
                     
 2-Admin System
 The admin will be able to create an account and then sign in. Moreover, the admin can choose a type of book and add it to the system. In addition to that, the admin will be able to check the current orders in the system as well as the total orders made by customers.
