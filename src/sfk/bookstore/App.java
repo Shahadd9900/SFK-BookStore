@@ -65,12 +65,12 @@ public class App {
         boolean keepRolling=true;
         while(keepRolling){
             System.out.println("\n\n-----------------------------------------------------------------------------");
-        System.out.println("                   ♥ SFK BookStore Welocmes You ♥  ");
-        System.out.println("                   ♥ Who is Using Our System Today ? ♥  ");
+        System.out.println("                   ♥ SFK Bookstore welcomes You ♥  ");
+        System.out.println("                   ♥Who is Using Our System Today? ♥  ");
         System.out.println("                   ♥ 1- Admin ♥  ");
         System.out.println("                   ♥ 2- Customer ♥  ");
-        System.out.println("                   ♥ 3- Disturbuting Agent ♥  ");
-        System.out.println("                   ♥ 4- Exit The System♥  ");
+        System.out.println("                   ♥ 3- Distributing  Agent ♥  ");
+        System.out.println("                   ♥ 4- Exit the system♥  ");
         System.out.println("-----------------------------------------------------------------------------\n\n");
         System.out.println("   ♥ Please Enter : ♥  ");
         choice=input.nextInt();
