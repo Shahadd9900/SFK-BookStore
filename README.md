@@ -32,6 +32,8 @@ After the customer is successfully logged in, the customer will be able to shop 
 After the agent has successfully logged in, the agent will have two options to either confirm that the order has been successfully delivered to the customer or to print the delivery confirmation.
 
 
+
+
 Credits:
 
 Shahad Ibrahim Alghareeb
