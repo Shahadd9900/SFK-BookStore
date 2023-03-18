@@ -25,7 +25,7 @@ The user will be able to create an account and then login to our system. In addi
 
 4-Shopping Cart System
 
-After being successfully logged in, the customer will be able to shop in our library. Furthermore, after the customer selects the required items, the customer can place an order. Our system provides two payment methods, either cash or credit card. It also provides the option of delivery.  Moreover, the customer can print his inventory after placing the order.  Also, the customer will be given the option to cancel the order after it has been placed.
+After being successfully logged in, the customer will be able to shop in our library. Furthermore, after the customer selects the required items, the customer can place an order. Our system provides two payment methods, either cash or credit card, it also provides the option of delivery. Moreover, the customer can print his inventory after placing the order.  Also, the customer will be given the option to cancel the order after it has been placed.
 
 5-Distributing agent System
 
