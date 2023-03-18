@@ -30,3 +30,16 @@ After the customer is successfully logged in, the customer will be able to shop 
 5-Distributing agent System
 
 After the agent has successfully logged in, the agent will have two options to either confirm that the order has been successfully delivered to the customer or to print the delivery confirmation.
+
+
+Credits:
+
+Shahad Ibrahim Alghareeb
+
+Fatima Zaki Almajid
+
+Shahd Abdulaziz Aleissa
+
+Kawthar Mohammed Alben mousa
+
+Shahad Khalid Alshammary
