@@ -1,7 +1,7 @@
 # SFK-BookStore
 A library system written in Java language.
 
-SFK BOOKSTORE
+⫸SFK BOOKSTORE
 
 
 
@@ -34,7 +34,7 @@ After the agent has successfully logged in, the agent will have two options to e
 
 
 
-Credits:
+⫸Credits:
 
 Shahad Alghareeb
 
