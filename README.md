@@ -36,12 +36,13 @@ After the agent has successfully logged in, the agent will have two options to e
 
 Credits:
 
-Shahad Ibrahim Alghareeb
+Shahad Alghareeb
 
-Fatima Zaki Almajid
+Shahd Aleissa
 
-Shahd Abdulaziz Aleissa
+Shahad Alshammary
 
-Kawthar Mohammed Alben mousa
+Fatima Almajid
 
-Shahad Khalid Alshammary
+Kawthar Alben mousa
+
